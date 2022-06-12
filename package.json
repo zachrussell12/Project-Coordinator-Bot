@@ -1,0 +1,27 @@
+{
+  "name": "project-bot",
+  "version": "1.0.0",
+  "description": "This bot will allow teams to become more organized by having projects saved to databases and constantly updated from concept to completion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachrussell12/Discord-Bots.git"
+  },
+  "author": "zachary russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachrussell12/Discord-Bots/issues"
+  },
+  "homepage": "https://github.com/zachrussell12/Discord-Bots#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enum": "^3.0.4",
+    "mysql": "^2.18.1",
+    "node": "^16.5.0",
+    "node-reminders": "^1.0.0",
+    "pdfkit": "^0.12.3"
+  }
+}
